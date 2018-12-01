@@ -1,7 +1,7 @@
 # CasinoBlackJack
 C# console BlackJack card game
 
-This is a C# console blackjack game.
+This is a C# console blackjack game created in Visual Studio.
 Features include:
  - ability to add as many players to a table to play
  - ability of any player to leave the table after a round of blackjack and later rejoin the table
